@@ -1,8 +1,8 @@
 {
   "name": "javascript-puppeteer",
   "version": "1.0.0",
-  "description": "",
-  "author": "",
+  "description": "A quick mob programming hack experimenting with googles puppeteer",
+  "author": "Stefan Jansson, Amanda Johansson, Måns Nilsson, Thomas Helmfridsson",
   "license": "MIT",
   "scripts": {
     "test": "mocha test --timeout=30000"
